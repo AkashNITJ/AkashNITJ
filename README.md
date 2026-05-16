@@ -58,7 +58,7 @@ alt="yeshusingh005" height="30" width="40" />
 </a>
 
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda logo" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda logo" width="45" height="45"/> 
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
