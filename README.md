@@ -22,7 +22,7 @@ src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif">
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-<a href="https://www.hackerrank.com/profile/yeshusingh005" target="blank">
+<a href="https://www.hackerrank.com/profile/akash123ald" target="blank">
 <img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
 alt="yeshusingh005" height="30" width="40" />
